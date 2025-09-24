@@ -1,8 +1,6 @@
-Campus Course & Records Manager (CCRM) - COMPLETE PROJECT
-This is a complete Java SE console application demo prepared for an assignment.
-It contains all source files, a CLI, sample data, and VS Code run configs.
+Campus Course & Records Manager 
 
-Quick run (macOS / Linux)
+MacOS Based Run application
 
 
 Open Terminal, go to project folder:
